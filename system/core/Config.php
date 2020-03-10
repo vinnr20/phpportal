@@ -104,7 +104,7 @@ class CI_Config {
 			}
 			else
 			{
-				$base_url = 'http://portal-php-portal.apps.b2f0.example.opentlc.com/';
+				$base_url = 'http://portal-osd-portal-osd.apps.b2f0.example.opentlc.com';
 			}
 
 			$this->set_item('base_url', $base_url);
