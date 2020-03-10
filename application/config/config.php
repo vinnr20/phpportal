@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://portal-php-portal.apps.b2f0.example.opentlc.com/';
+$config['base_url'] = 'http://portal-osd-portal-osd.apps.b2f0.example.opentlc.com/';
 
 /*
 |--------------------------------------------------------------------------
